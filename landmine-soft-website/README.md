@@ -119,7 +119,7 @@ http://localhost:3000
 
 👩‍💻 Developer
 
-Name: Vijaya Devanaka
+Name: Srija Devanaka
 GitHub: https://github.com/srijadevanaka-maker
 
 ---
