@@ -87,7 +87,7 @@ index.js
 
 1. Clone the repository
 
-git clone https://github.com/srijadevanaka-maker/landmine-soft-website.git
+https://github.com/srijadevanaka-maker/landmine-soft-website
 
 2. Navigate to the project folder
 
@@ -103,7 +103,7 @@ npm start
 
 5. Open in browser
 
-http://localhost:3000
+http://localhost:3000/
 
 ---
 
